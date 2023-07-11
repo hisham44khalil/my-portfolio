@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.57e2ce68.css",
+    "main.js": "/my-portfolio/static/js/main.3dd00ba6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Qwery.jpg": "/my-portfolio/static/media/Qwery.cf3ffdbb73b268e3e50c.jpg",
+    "static/media/site-bg.jpg": "/my-portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/honey.jpg": "/my-portfolio/static/media/honey.43adfba483d2dd26fe80.jpg",
+    "static/media/Rentiz.jpg": "/my-portfolio/static/media/Rentiz.3689a151e3f1c849df46.jpg",
+    "static/media/Fiu web.jpg": "/my-portfolio/static/media/Fiu web.d6d0f27b29141d09631e.jpg",
+    "static/media/services.png": "/my-portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/foods.jpg": "/my-portfolio/static/media/foods.d0865131af809ed19031.jpg",
+    "static/media/Code typing-bro.svg": "/my-portfolio/static/media/Code typing-bro.02782d2c3148b7a275d977dd6d09076f.svg",
+    "static/media/front end.png": "/my-portfolio/static/media/front end.60b01b06ccfaffa1c24c.png",
+    "static/media/back end.png": "/my-portfolio/static/media/back end.0be835f21387e26b7c42.png",
+    "static/media/bootstrap.png": "/my-portfolio/static/media/bootstrap.9cc938d1c1c7ae7297ea.png",
+    "static/media/js.png": "/my-portfolio/static/media/js.cf7522f436d6510da302.png",
+    "static/media/node.js-removebg-preview.png": "/my-portfolio/static/media/node.js-removebg-preview.539fc4b17bf20254f67f.png",
+    "static/media/instagram.png": "/my-portfolio/static/media/instagram.6030a8815dc4d150b086.png",
+    "static/media/science.png": "/my-portfolio/static/media/science.3bf6fb4b18b1f904676d.png",
+    "static/media/whatsapp.png": "/my-portfolio/static/media/whatsapp.c75084c4f67a9e4b0ba3.png",
+    "static/media/css-3.png": "/my-portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/cleancode.jpg": "/my-portfolio/static/media/cleancode.8037375529e3e37abead.jpg",
+    "static/media/facebook.png": "/my-portfolio/static/media/facebook.4f037d961598aff2a0a4.png",
+    "static/media/undraw_heatmap_uyye.svg": "/my-portfolio/static/media/undraw_heatmap_uyye.49fbb99ac28bc636e57d0c9cee0da26f.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.57e2ce68.css.map": "/my-portfolio/static/css/main.57e2ce68.css.map",
+    "main.3dd00ba6.js.map": "/my-portfolio/static/js/main.3dd00ba6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e2ce68.css",
+    "static/js/main.3dd00ba6.js"
+  ]
+}
